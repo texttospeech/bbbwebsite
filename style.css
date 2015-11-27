@@ -63,3 +63,11 @@ a:hover {
 	border-style: solid;
 }
 
+#dashboard {
+  background-color: #F5FFFA;
+}
+
+#settings {
+  background-color: #F8F8FF;
+}
+
